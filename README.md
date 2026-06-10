@@ -27,15 +27,22 @@ At $z=0$, under the same density-grid and threshold setup, the baseline **MK1** 
 
 The analysis uses the **Illustris-3-Dark** simulation, the low-resolution dark-matter-only counterpart of the Illustris suite.
 
-**Simulation:** Illustris-3-Dark
-**Box side length:** 75 cMpc/h
-**Number of dark-matter particles:** 455³
-**Dark-matter particle mass:** approximately 0.034 × 10¹⁰ M☉/h
-**Mean interparticle separation:** approximately 0.165 cMpc/h
-**Main analysis grid:** 512³ cells
-**Main density variable:** 1 + δ = ρ / ρ̄
+| Quantity                        | Value                                                |
+| ------------------------------- | ---------------------------------------------------- |
+| Simulation                      | Illustris-3-Dark                                     |
+| Simulation type                 | Dark-matter-only cosmological simulation             |
+| Box side length                 | 75 cMpc/h                                            |
+| Number of dark-matter particles | 455³                                                 |
+| Dark-matter particle mass       | approximately 0.034 × 10¹⁰ M☉/h                      |
+| Mean interparticle separation   | approximately 0.165 cMpc/h                           |
+| Main analysis grid              | 512³ cells                                           |
+| Density variable                | 1 + δ = ρ / ρ̄                                       |
+| Redshifts analysed              | 0, 0.1, 0.2, 0.4, 0.7, 1, 1.6, 2, 3, 5, 7, 9, 12, 17 |
+| Main WVF catalogue              | MK2 watershed catalogue                              |
+| Final void count at z = 0       | 370 voids                                            |
 
 The raw Illustris snapshot files are **not included** in this repository. They should be downloaded separately and kept locally in `Original_Data/`.
+
 
 
 ---
