@@ -25,19 +25,18 @@ At $z=0$, under the same density-grid and threshold setup, the baseline **MK1** 
 
 ## Data basis
 
-The analysis uses the **Illustris-3-Dark** simulation: the low-resolution, dark-matter-only counterpart of the Illustris suite.
+The analysis uses the **Illustris-3-Dark** simulation, the low-resolution dark-matter-only counterpart of the Illustris suite.
 
-| Quantity | Value used |
-|---|---:|
-| Simulation | Illustris-3-Dark |
-| Box side length | $75\,\mathrm{cMpc}/h$ |
-| Number of dark-matter particles | $455^3$ |
-| Dark-matter particle mass | $\approx 0.034\times10^{10}\,M_\odot/h$ |
-| Mean interparticle separation | $\approx0.165\,\mathrm{cMpc}/h$ |
-| Main analysis grid | $512^3$ cells |
-| Main density variable | $1+\delta=\rho/\bar\rho$ |
+**Simulation:** Illustris-3-Dark
+**Box side length:** 75 cMpc/h
+**Number of dark-matter particles:** 455³
+**Dark-matter particle mass:** approximately 0.034 × 10¹⁰ M☉/h
+**Mean interparticle separation:** approximately 0.165 cMpc/h
+**Main analysis grid:** 512³ cells
+**Main density variable:** 1 + δ = ρ / ρ̄
 
 The raw Illustris snapshot files are **not included** in this repository. They should be downloaded separately and kept locally in `Original_Data/`.
+
 
 ---
 
