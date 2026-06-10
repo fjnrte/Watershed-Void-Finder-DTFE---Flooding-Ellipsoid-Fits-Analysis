@@ -171,12 +171,6 @@ $$
 
 so the mature WVF voids in this catalogue are strongly triaxial rather than mildly perturbed spheres.
 
-<p align="center">
-  <img src="figures/4___Data_Analysis_Densities_And_Volumes/ellipsoid___00.png" width="32%" alt="Average ellipsoid shape at z=0">
-  <img src="figures/4___Data_Analysis_Densities_And_Volumes/ellipsoid___30.png" width="32%" alt="Average ellipsoid shape at z=3">
-  <img src="figures/4___Data_Analysis_Densities_And_Volumes/ellipsoid___120.png" width="32%" alt="Average ellipsoid shape at z=12">
-</p>
-
 ---
 
 
