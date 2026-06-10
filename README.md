@@ -173,6 +173,54 @@ so the mature WVF voids in this catalogue are strongly triaxial rather than mild
 
 ---
 
+
+
+### Average ellipsoid shapes across redshift
+
+The ellipsoid fits are not meant to replace the WVF voids with smooth analytic objects.
+They are used as compact global descriptors of the voids' dominant extent, orientation, and triaxiality.
+
+Visually, the fits behave as intended: they follow the large-scale shape and orientation of the WVF voids, while the voids themselves remain irregular.
+The WVF regions contain protrusions, indentations, and rough local boundaries, looking more like wrinkled ellipsoidal objects than clean mathematical ellipsoids.
+A perfectly smooth ellipsoidal boundary would be suspicious here, since the WVF is a space-filling grid segmentation.
+The irregularities are therefore expected local watershed morphology, while the ellipsoid fits capture the dominant global shape.
+
+The average fitted ellipsoid shape was also plotted at three representative redshifts: `z = 0`, `z = 3`, and `z = 12`.
+
+<table>
+<tr>
+<td align="center"><img src="figures/4___Data_Analysis_Densities_And_Volumes/ellipsoid___00.png" width="100%"></td>
+<td align="center"><img src="figures/4___Data_Analysis_Densities_And_Volumes/ellipsoid___30.png" width="100%"></td>
+<td align="center"><img src="figures/4___Data_Analysis_Densities_And_Volumes/ellipsoid___120.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><b>z = 0</b></td>
+<td align="center"><b>z = 3</b></td>
+<td align="center"><b>z = 12</b></td>
+</tr>
+</table>
+
+From `z = 12` to `z = 3`, the average ellipsoid becomes visibly thinner along its shortest axis.
+The ratio `C/A` decreases from roughly `0.42` to `0.39`, while `B/A` changes only mildly, from roughly `0.62` to `0.60`.
+This points more toward a stronger squeezing of the minor axis than toward a simple stretching of the major axes.
+
+By the present epoch, the average shape is approximately
+
+```text
+A : B : C ≈ 1 : 0.56 : 0.32
+```
+
+This is not a mildly perturbed sphere.
+It is a strongly triaxial average void: long in one direction, significantly narrower in the second, and much more compressed in the third.
+
+An optional supplementary animation of this evolution can be added as:
+
+```text
+supplementary/ellipsoid_video.mp4
+```
+
+---
+
 ## Fit quality and centre definitions
 
 Because WVF basins are not smooth, ellipsoid fits are tested against the original grid-cell voids using three overlap scores:
