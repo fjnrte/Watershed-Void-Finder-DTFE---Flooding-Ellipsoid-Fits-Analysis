@@ -4,10 +4,6 @@
 
 This repository contains the computational work behind my thesis project on cosmic voids in the **Illustris-3-Dark** dark-matter-only simulation. The project builds a full Watershed Void Finder (WVF) pipeline: starting from dark-matter particle snapshots, reconstructing a density grid, smoothing and discretizing it, identifying void origins, applying hierarchy-controlled watershed flooding, and analysing the resulting void catalogue through densities, volumes, ellipsoid morphology, fit quality, centre definitions, and radial density profiles.
 
-<p align="center">
-  <img src="figures/8___Appendix/Frame__Z_ALL_0.png" width="90%" alt="WVF density-grid and wall output across redshift, part I">
-</p>
-
 ---
 
 ## BSc Astronomy Thesis
@@ -24,6 +20,11 @@ University of Groningen, 2026
 
 
 ---
+
+
+<p align="center">
+  <img src="figures/8___Appendix/Frame__Z_ALL_0.png" width="90%" alt="WVF density-grid and wall output across redshift, part I">
+</p>
 
 
 ## Project summary
