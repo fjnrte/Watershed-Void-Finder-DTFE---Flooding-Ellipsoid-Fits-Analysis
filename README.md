@@ -10,6 +10,22 @@ This repository contains the computational work behind my thesis project on cosm
 
 ---
 
+## BSc Astronomy Thesis
+
+### Cosmic Voids in Illustris-3-Dark:
+### Construction and Analysis of a Watershed Void Finder Pipeline for Evolution, Morphology, and Density Profiles
+
+**Vlad-Haralambie Ispas**  
+University of Groningen, 2026  
+
+**Supervisor:** Prof. Rien van de Weijgaert
+
+[**View the full thesis (PDF)**](./BScAstronomyThesis_Vlad_Haralambie_Ispas.pdf)
+
+
+---
+
+
 ## Project summary
 
 Cosmic voids are the large underdense basins of the cosmic web. Since real voids are irregular, hierarchical, and strongly affected by their wall/filament environment, this project uses a **topology-based watershed method** rather than assuming spherical void shapes during identification.
