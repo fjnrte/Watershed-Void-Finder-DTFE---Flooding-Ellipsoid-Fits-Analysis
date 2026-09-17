@@ -10,7 +10,7 @@ University of Groningen, 2026
 
 **Supervisor:** Prof. Rien van de Weijgaert
 
-[**Download the full thesis (PDF)**](https://github.com/fjnrte/Watershed-Void-Finder-DTFE---Flooding-Ellipsoid-Fits-Analysis/releases/download/v1.0/BScAstronomyThesis_Vlad_Haralambie_Ispas.pdf)
+[**View the full thesis (PDF)**](https://github.com/fjnrte/Watershed-Void-Finder-DTFE---Flooding-Ellipsoid-Fits-Analysis/blob/main/BScAstronomyThesis_Vlad_Haralambie_Ispas.pdf)
 
 
 ---
