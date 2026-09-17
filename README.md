@@ -8,9 +8,6 @@ This repository contains the computational work behind my thesis project on cosm
 
 ## BSc Astronomy Thesis
 
-### Cosmic Voids in Illustris-3-Dark:
-### Construction and Analysis of a Watershed Void Finder Pipeline for Evolution, Morphology, and Density Profiles
-
 **Vlad-Haralambie Ispas**  
 University of Groningen, 2026  
 
