@@ -5,9 +5,6 @@
 This repository contains the computational work behind my thesis project on cosmic voids in the **Illustris-3-Dark** dark-matter-only simulation. The project builds a full Watershed Void Finder (WVF) pipeline: starting from dark-matter particle snapshots, reconstructing a density grid, smoothing and discretizing it, identifying void origins, applying hierarchy-controlled watershed flooding, and analysing the resulting void catalogue through densities, volumes, ellipsoid morphology, fit quality, centre definitions, and radial density profiles.
 
 
-
-## BSc Astronomy Thesis
-
 **Vlad-Haralambie Ispas**  
 University of Groningen, 2026
 
